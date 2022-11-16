@@ -1,0 +1,23 @@
+Detalhes do Projeto
+
+* Criação do Banco de Dados -> (OK)
+
+* Criação das classes de modelo -> (OK)
+
+* Criação da conexão com o Banco de Dados ->
+
+* Criação das classes de controle "Acesso aos dados do banco" ->
+
+* Criação da interface gráfica -> 
+	Criação da tela principal -> 
+		Criação do CellRederer Prazo
+		Criação do CellRederer Editar e Deletar
+	Criação da tela de cadastro de projeto
+	criação da tela de cadastro de tarefa
+
+* Implementação dos eventos -> 
+	Validações
+
+* Ajustes finais ->
+
+* Teste da aplicação ->
